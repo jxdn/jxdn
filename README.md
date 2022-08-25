@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moh Zidni Mubarok (JXDN)</h1>
-<h3 align="center">A passionate IT infraengineer</h3>
+<h1 align="center">Hi 👋, I'm Moh Zidni Mubarok (jxdn)</h1>
+<h3 align="center">A passionate IT infra engineer</h3>
 
 - 🔭 I’m currently working on **Cloud for AI/HPC and Enterprise grade workloads**
 
